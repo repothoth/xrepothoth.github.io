@@ -1,0 +1,88 @@
+{
+  "repoPath": "../../repos/shallow/vitejs-vite-9d94d10c",
+  "ref": "main",
+  "diffs": {
+    "path": "../../states/vitejs-vite-9d94d10c/diffs.ndjson",
+    "compression": "gzip"
+  },
+  "meta": {
+    "markers": "../../states/vitejs-vite-9d94d10c/markers.json"
+  },
+  "compute": {
+    "filters": {
+      "files": {
+        "exclude": [
+          "**/*-lock.json",
+          "**/yarn.lock",
+          "**/Cargo.lock",
+          "**/Pipfile.lock",
+          "**/dist/**",
+          "**/build/**",
+          "**/node_modules/**"
+        ]
+      }
+    },
+    "sections": [
+      "score",
+      "activity",
+      "hourHeatmap",
+      "velocity",
+      "branchActivity",
+      "afterHoursTrend",
+      [
+        "locChart",
+        "fileCountChart"
+      ],
+      "locByExtensionChart",
+      "growthIndex",
+      "linesChart",
+      "contributorActivity",
+      "contributors",
+      "busFactor",
+      "churnVsSize",
+      "hotspots",
+      "dirHotspots",
+      "coChange"
+    ],
+    "extensions": [],
+    "topExtensions": 8,
+    "recencyDays": 90,
+    "weekendDays": [
+      5,
+      6
+    ],
+    "workHourStart": 8,
+    "workHourEnd": 19,
+    "anonymize": false,
+    "branchActivity": true,
+    "branchActivityScope": "remote",
+    "branchActivityTopK": 20,
+    "churnMaxPoints": 250,
+    "coChangeTopPairs": 100,
+    "coChangeMaxFilesPerCommit": 50,
+    "hotspotsTopFiles": 20,
+    "hotspotsTopAuthors": 8
+  },
+  "json": {
+    "output": "../../data/vitejs-vite-9d94d10c/report.json",
+    "projectName": "vite",
+    "compression": "deflate",
+    "contributorsBatch": 20,
+    "hotspotsBatch": 20
+  },
+  "digest": {
+    "output": "../../data/vitejs-vite-9d94d10c/digest.json"
+  },
+  "html": {
+    "output": "../../reports/vitejs-vite-9d94d10c/report.html",
+    "maxChartPoints": 800,
+    "maxTreeNodes": 2000,
+    "maxTreeChildrenPerDir": 50,
+    "gzipHtml": true
+  },
+  "state": {
+    "output": "../../states/vitejs-vite-9d94d10c/state.json",
+    "id": "vitejs-vite-9d94d10c",
+    "url": "ssh://git@github.com/vitejs/vite"
+  }
+}

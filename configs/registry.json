@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "dataDir": "..",
+  "layout": {
+    "config": "configs/repos/{id}.config.json",
+    "repo": "repos/shallow/{id}",
+    "diffs": "states/{id}/diffs.ndjson",
+    "markers": "states/{id}/markers.json",
+    "state": "states/{id}/state.json",
+    "json": "data/{id}/report.json",
+    "digest": "data/{id}/digest.json",
+    "html": "reports/{id}/report.html"
+  },
+  "defaults": {
+    "compute": {
+      "branchActivityTopK": 20,
+      "churnMaxPoints": 250,
+      "coChangeTopPairs": 100,
+      "coChangeMaxFilesPerCommit": 50,
+      "hotspotsTopFiles": 20,
+      "hotspotsTopAuthors": 8
+    },
+    "json": {
+      "compression": "deflate",
+      "contributorsBatch": 20,
+      "hotspotsBatch": 20
+    },
+    "html": {
+      "maxChartPoints": 800,
+      "maxTreeNodes": 2000,
+      "maxTreeChildrenPerDir": 50,
+      "gzipHtml": true
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "repoPath": "../../repos/shallow/vercel-next.js-f6a68c94",
+  "ref": "canary",
+  "diffs": {
+    "path": "../../states/vercel-next.js-f6a68c94/diffs.ndjson",
+    "compression": "gzip"
+  },
+  "meta": {
+    "markers": "../../states/vercel-next.js-f6a68c94/markers.json"
+  },
+  "compute": {
+    "filters": {
+      "files": {
+        "exclude": [
+          "**/*-lock.json",
+          "**/yarn.lock",
+          "**/Cargo.lock",
+          "**/Pipfile.lock",
+          "**/dist/**",
+          "**/build/**",
+          "**/node_modules/**"
+        ]
+      }
+    },
+    "sections": [
+      "score",
+      "activity",
+      "hourHeatmap",
+      "velocity",
+      "branchActivity",
+      "afterHoursTrend",
+      [
+        "locChart",
+        "fileCountChart"
+      ],
+      "locByExtensionChart",
+      "growthIndex",
+      "linesChart",
+      "contributorActivity",
+      "contributors",
+      "busFactor",
+      "churnVsSize",
+      "hotspots",
+      "dirHotspots",
+      "coChange"
+    ],
+    "extensions": [],
+    "topExtensions": 8,
+    "recencyDays": 90,
+    "weekendDays": [
+      5,
+      6
+    ],
+    "workHourStart": 8,
+    "workHourEnd": 19,
+    "anonymize": false,
+    "branchActivity": true,
+    "branchActivityScope": "remote",
+    "branchActivityTopK": 20,
+    "churnMaxPoints": 250,
+    "coChangeTopPairs": 100,
+    "coChangeMaxFilesPerCommit": 50,
+    "hotspotsTopFiles": 20,
+    "hotspotsTopAuthors": 8
+  },
+  "json": {
+    "output": "../../data/vercel-next.js-f6a68c94/report.json",
+    "projectName": "next.js",
+    "compression": "deflate",
+    "contributorsBatch": 20,
+    "hotspotsBatch": 20
+  },
+  "digest": {
+    "output": "../../data/vercel-next.js-f6a68c94/digest.json"
+  },
+  "html": {
+    "output": "../../reports/vercel-next.js-f6a68c94/report.html",
+    "maxChartPoints": 800,
+    "maxTreeNodes": 2000,
+    "maxTreeChildrenPerDir": 50,
+    "gzipHtml": true
+  },
+  "state": {
+    "output": "../../states/vercel-next.js-f6a68c94/state.json",
+    "id": "vercel-next.js-f6a68c94",
+    "url": "ssh://git@github.com/vercel/next.js"
+  }
+}

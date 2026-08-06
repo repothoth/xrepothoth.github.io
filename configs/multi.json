@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "title": "RepoThoth",
+  "description": "Multi-repository health analysis for popular open source projects",
+  "registry": "./registry.json",
+  "output": "../index.html"
+}

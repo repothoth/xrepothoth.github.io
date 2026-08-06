@@ -1,0 +1,88 @@
+{
+  "repoPath": "../../repos/shallow/storybookjs-storybook-e90db5c4",
+  "ref": "next",
+  "diffs": {
+    "path": "../../states/storybookjs-storybook-e90db5c4/diffs.ndjson",
+    "compression": "gzip"
+  },
+  "meta": {
+    "markers": "../../states/storybookjs-storybook-e90db5c4/markers.json"
+  },
+  "compute": {
+    "filters": {
+      "files": {
+        "exclude": [
+          "**/*-lock.json",
+          "**/yarn.lock",
+          "**/Cargo.lock",
+          "**/Pipfile.lock",
+          "**/dist/**",
+          "**/build/**",
+          "**/node_modules/**"
+        ]
+      }
+    },
+    "sections": [
+      "score",
+      "activity",
+      "hourHeatmap",
+      "velocity",
+      "branchActivity",
+      "afterHoursTrend",
+      [
+        "locChart",
+        "fileCountChart"
+      ],
+      "locByExtensionChart",
+      "growthIndex",
+      "linesChart",
+      "contributorActivity",
+      "contributors",
+      "busFactor",
+      "churnVsSize",
+      "hotspots",
+      "dirHotspots",
+      "coChange"
+    ],
+    "extensions": [],
+    "topExtensions": 8,
+    "recencyDays": 90,
+    "weekendDays": [
+      5,
+      6
+    ],
+    "workHourStart": 8,
+    "workHourEnd": 19,
+    "anonymize": false,
+    "branchActivity": true,
+    "branchActivityScope": "remote",
+    "branchActivityTopK": 20,
+    "churnMaxPoints": 250,
+    "coChangeTopPairs": 100,
+    "coChangeMaxFilesPerCommit": 50,
+    "hotspotsTopFiles": 20,
+    "hotspotsTopAuthors": 8
+  },
+  "json": {
+    "output": "../../data/storybookjs-storybook-e90db5c4/report.json",
+    "projectName": "storybook",
+    "compression": "deflate",
+    "contributorsBatch": 20,
+    "hotspotsBatch": 20
+  },
+  "digest": {
+    "output": "../../data/storybookjs-storybook-e90db5c4/digest.json"
+  },
+  "html": {
+    "output": "../../reports/storybookjs-storybook-e90db5c4/report.html",
+    "maxChartPoints": 800,
+    "maxTreeNodes": 2000,
+    "maxTreeChildrenPerDir": 50,
+    "gzipHtml": true
+  },
+  "state": {
+    "output": "../../states/storybookjs-storybook-e90db5c4/state.json",
+    "id": "storybookjs-storybook-e90db5c4",
+    "url": "ssh://git@github.com/storybookjs/storybook"
+  }
+}

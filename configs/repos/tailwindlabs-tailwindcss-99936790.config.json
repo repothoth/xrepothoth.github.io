@@ -1,0 +1,88 @@
+{
+  "repoPath": "../../repos/shallow/tailwindlabs-tailwindcss-99936790",
+  "ref": "main",
+  "diffs": {
+    "path": "../../states/tailwindlabs-tailwindcss-99936790/diffs.ndjson",
+    "compression": "gzip"
+  },
+  "meta": {
+    "markers": "../../states/tailwindlabs-tailwindcss-99936790/markers.json"
+  },
+  "compute": {
+    "filters": {
+      "files": {
+        "exclude": [
+          "**/*-lock.json",
+          "**/yarn.lock",
+          "**/Cargo.lock",
+          "**/Pipfile.lock",
+          "**/dist/**",
+          "**/build/**",
+          "**/node_modules/**"
+        ]
+      }
+    },
+    "sections": [
+      "score",
+      "activity",
+      "hourHeatmap",
+      "velocity",
+      "branchActivity",
+      "afterHoursTrend",
+      [
+        "locChart",
+        "fileCountChart"
+      ],
+      "locByExtensionChart",
+      "growthIndex",
+      "linesChart",
+      "contributorActivity",
+      "contributors",
+      "busFactor",
+      "churnVsSize",
+      "hotspots",
+      "dirHotspots",
+      "coChange"
+    ],
+    "extensions": [],
+    "topExtensions": 8,
+    "recencyDays": 90,
+    "weekendDays": [
+      5,
+      6
+    ],
+    "workHourStart": 8,
+    "workHourEnd": 19,
+    "anonymize": false,
+    "branchActivity": true,
+    "branchActivityScope": "remote",
+    "branchActivityTopK": 20,
+    "churnMaxPoints": 250,
+    "coChangeTopPairs": 100,
+    "coChangeMaxFilesPerCommit": 50,
+    "hotspotsTopFiles": 20,
+    "hotspotsTopAuthors": 8
+  },
+  "json": {
+    "output": "../../data/tailwindlabs-tailwindcss-99936790/report.json",
+    "projectName": "tailwindcss",
+    "compression": "deflate",
+    "contributorsBatch": 20,
+    "hotspotsBatch": 20
+  },
+  "digest": {
+    "output": "../../data/tailwindlabs-tailwindcss-99936790/digest.json"
+  },
+  "html": {
+    "output": "../../reports/tailwindlabs-tailwindcss-99936790/report.html",
+    "maxChartPoints": 800,
+    "maxTreeNodes": 2000,
+    "maxTreeChildrenPerDir": 50,
+    "gzipHtml": true
+  },
+  "state": {
+    "output": "../../states/tailwindlabs-tailwindcss-99936790/state.json",
+    "id": "tailwindlabs-tailwindcss-99936790",
+    "url": "ssh://git@github.com/tailwindlabs/tailwindcss"
+  }
+}

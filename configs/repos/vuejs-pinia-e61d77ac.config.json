@@ -1,0 +1,88 @@
+{
+  "repoPath": "../../repos/shallow/vuejs-pinia-e61d77ac",
+  "ref": "v4",
+  "diffs": {
+    "path": "../../states/vuejs-pinia-e61d77ac/diffs.ndjson",
+    "compression": "gzip"
+  },
+  "meta": {
+    "markers": "../../states/vuejs-pinia-e61d77ac/markers.json"
+  },
+  "compute": {
+    "filters": {
+      "files": {
+        "exclude": [
+          "**/*-lock.json",
+          "**/yarn.lock",
+          "**/Cargo.lock",
+          "**/Pipfile.lock",
+          "**/dist/**",
+          "**/build/**",
+          "**/node_modules/**"
+        ]
+      }
+    },
+    "sections": [
+      "score",
+      "activity",
+      "hourHeatmap",
+      "velocity",
+      "branchActivity",
+      "afterHoursTrend",
+      [
+        "locChart",
+        "fileCountChart"
+      ],
+      "locByExtensionChart",
+      "growthIndex",
+      "linesChart",
+      "contributorActivity",
+      "contributors",
+      "busFactor",
+      "churnVsSize",
+      "hotspots",
+      "dirHotspots",
+      "coChange"
+    ],
+    "extensions": [],
+    "topExtensions": 8,
+    "recencyDays": 90,
+    "weekendDays": [
+      5,
+      6
+    ],
+    "workHourStart": 8,
+    "workHourEnd": 19,
+    "anonymize": false,
+    "branchActivity": true,
+    "branchActivityScope": "remote",
+    "branchActivityTopK": 20,
+    "churnMaxPoints": 250,
+    "coChangeTopPairs": 100,
+    "coChangeMaxFilesPerCommit": 50,
+    "hotspotsTopFiles": 20,
+    "hotspotsTopAuthors": 8
+  },
+  "json": {
+    "output": "../../data/vuejs-pinia-e61d77ac/report.json",
+    "projectName": "pinia",
+    "compression": "deflate",
+    "contributorsBatch": 20,
+    "hotspotsBatch": 20
+  },
+  "digest": {
+    "output": "../../data/vuejs-pinia-e61d77ac/digest.json"
+  },
+  "html": {
+    "output": "../../reports/vuejs-pinia-e61d77ac/report.html",
+    "maxChartPoints": 800,
+    "maxTreeNodes": 2000,
+    "maxTreeChildrenPerDir": 50,
+    "gzipHtml": true
+  },
+  "state": {
+    "output": "../../states/vuejs-pinia-e61d77ac/state.json",
+    "id": "vuejs-pinia-e61d77ac",
+    "url": "ssh://git@github.com/vuejs/pinia"
+  }
+}
