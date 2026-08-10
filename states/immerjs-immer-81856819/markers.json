@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2017-12-31",
+    "title": "v0.0.4",
+    "description": "v0.0.4"
+  },
+  {
+    "date": "2018-01-31",
+    "title": "1.0.0",
+    "description": "Documented 1.0.0 release!"
+  },
+  {
+    "date": "2019-02-02",
+    "title": "v2.0.0",
+    "description": "Merge branch 'async-recipes'"
+  },
+  {
+    "date": "2019-04-17",
+    "title": "v3.0.0",
+    "description": "docs: add migration guide for v3"
+  },
+  {
+    "date": "2019-09-11",
+    "title": "v4.0.0",
+    "description": "feat: In development mode, any new value stored in a tree will be deeply frozen."
+  },
+  {
+    "date": "2019-10-30",
+    "title": "v5.0.0",
+    "description": "feat: added first class support for `Map` and `Set`"
+  },
+  {
+    "date": "2020-03-03",
+    "title": "v6.0.0",
+    "description": "Merge pull request #536 from immerjs/multi-bundle"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "v7.0.0",
+    "description": "Immer 7"
+  },
+  {
+    "date": "2020-11-17",
+    "title": "v8.0.0",
+    "description": "chore: back to node, everything is slow on travis"
+  },
+  {
+    "date": "2021-03-19",
+    "title": "v9.0.0",
+    "description": "feature: Improved typescript types"
+  },
+  {
+    "date": "2023-04-17",
+    "title": "v10.0.0",
+    "description": "Merge pull request #1028 from immerjs/immer-10"
+  },
+  {
+    "date": "2025-11-23",
+    "title": "v11.0.0",
+    "description": "perf: Rewrite finalization system to use a callback approach instead of tree traversal (#1183)"
+  }
+]

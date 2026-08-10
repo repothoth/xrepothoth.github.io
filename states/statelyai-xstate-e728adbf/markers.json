@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2015-10-17",
+    "title": "v0.1.0",
+    "description": "0.1.0"
+  },
+  {
+    "date": "2017-08-23",
+    "title": "v1.0.0",
+    "description": "1.0.0"
+  },
+  {
+    "date": "2017-11-22",
+    "title": "v2.0.0",
+    "description": "2.0.0"
+  },
+  {
+    "date": "2017-12-23",
+    "title": "v3.0.0",
+    "description": "3.0.0"
+  },
+  {
+    "date": "2018-10-29",
+    "title": "v4.0.0",
+    "description": "4.0.0"
+  }
+]

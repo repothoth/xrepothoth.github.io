@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2016-06-28",
+    "title": "v1.0",
+    "description": "fix #11"
+  },
+  {
+    "date": "2017-02-23",
+    "title": "v2.0.0",
+    "description": "Merge branch 'v2.0'"
+  },
+  {
+    "date": "2019-01-09",
+    "title": "v3.0.0",
+    "description": "Add v3 release gif"
+  },
+  {
+    "date": "2025-04-03",
+    "title": "4.0.0",
+    "description": "Update package.json"
+  }
+]

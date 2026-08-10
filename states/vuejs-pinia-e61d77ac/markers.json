@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2019-11-26",
+    "title": "v0.0.1",
+    "description": "v0.0.1"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "v2.2.7",
+    "description": "release: pinia@2.2.7"
+  },
+  {
+    "date": "2025-02-11",
+    "title": "v3.0.0",
+    "description": "release: pinia@3.0.0 @pinia/testing@1.0.0 @pinia/nuxt@0.10.0"
+  },
+  {
+    "date": "2026-07-14",
+    "title": "v4.0.0",
+    "description": "v4.0.0"
+  }
+]

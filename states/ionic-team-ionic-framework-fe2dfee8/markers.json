@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2014-02-05",
+    "title": "v0.9.23",
+    "description": "chore(bower): ignore js/ folder that are source"
+  },
+  {
+    "date": "2015-05-12",
+    "title": "1.0.0",
+    "description": "release: v1.0.0 \"uranium-unicorn\""
+  },
+  {
+    "date": "2017-01-24",
+    "title": "v2.0.0",
+    "description": "chore(changelog): mention textarea change"
+  },
+  {
+    "date": "2017-04-05",
+    "title": "v3.0.0",
+    "description": "test(menu): update directory structure for menu/multiple"
+  },
+  {
+    "date": "2019-01-23",
+    "title": "v4.0.0",
+    "description": "4.0.0 Neutronium"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "v5.0.0",
+    "description": "5.0.0"
+  },
+  {
+    "date": "2021-12-08",
+    "title": "v6.0.0",
+    "description": "6.0.0"
+  },
+  {
+    "date": "2023-03-29",
+    "title": "v7.0.0",
+    "description": "v7.0.0"
+  },
+  {
+    "date": "2024-04-17",
+    "title": "v8.0.0",
+    "description": "v8.0.0"
+  }
+]

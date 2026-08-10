@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2016-03-18",
+    "title": "v0.1.0",
+    "description": "0.1.0"
+  },
+  {
+    "date": "2016-03-31",
+    "title": "v1.0.0",
+    "description": "1.0.0"
+  },
+  {
+    "date": "2016-08-01",
+    "title": "v2.0.0",
+    "description": "2.0.0"
+  },
+  {
+    "date": "2017-05-31",
+    "title": "v3.0.0",
+    "description": "v3.0.0"
+  },
+  {
+    "date": "2018-10-29",
+    "title": "v4.0.0",
+    "description": "v4.0.0"
+  },
+  {
+    "date": "2019-03-05",
+    "title": "v5.0.0",
+    "description": "v5.0.0"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "v6.0.0",
+    "description": "v6.0.0"
+  },
+  {
+    "date": "2023-03-31",
+    "title": "v7.0.0",
+    "description": "v7.0.0"
+  },
+  {
+    "date": "2024-03-11",
+    "title": "v8.0.0",
+    "description": "Bump version from \"8.0.0-rc.5\" to \"8.0.0\" [skip ci]"
+  },
+  {
+    "date": "2025-05-28",
+    "title": "v9.0.0",
+    "description": "Bump version from \"9.0.0-rc.5\" to \"9.0.0\" [skip ci]"
+  },
+  {
+    "date": "2025-10-28",
+    "title": "v10.0.0",
+    "description": "Bump version from \"10.0.0-rc.4\" to \"10.0.0\" [skip ci]"
+  }
+]

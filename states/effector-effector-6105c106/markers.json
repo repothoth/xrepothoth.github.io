@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2018-04-12",
+    "title": "v0.14.0",
+    "description": "* Add independent `createStore` method * Replace console.warn with console.error in warnings * Make reducers full-featured store elements (add `.get()`, `.set(x)` and `.map(fn)` methods) * Add observable declaration to effects, events and reducers, which allow interop in this way: `from(effect)`"
+  },
+  {
+    "date": "2020-08-10",
+    "title": "v21.2.2",
+    "description": "effector 21.2.2; forest 0.19.0"
+  }
+]

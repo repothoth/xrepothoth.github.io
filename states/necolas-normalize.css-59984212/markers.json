@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2012-08-14",
+    "title": "v1.0.0",
+    "description": "v1.0.0"
+  },
+  {
+    "date": "2012-08-19",
+    "title": "v2.0.0",
+    "description": "v2.0.0"
+  },
+  {
+    "date": "2014-01-28",
+    "title": "3.0.0",
+    "description": "v3.0.0"
+  },
+  {
+    "date": "2016-03-19",
+    "title": "4.0.0",
+    "description": "v4.0.0"
+  },
+  {
+    "date": "2016-10-03",
+    "title": "5.0.0",
+    "description": "v5.0.0"
+  },
+  {
+    "date": "2017-03-26",
+    "title": "6.0.0",
+    "description": "6.0.0"
+  },
+  {
+    "date": "2017-05-02",
+    "title": "7.0.0",
+    "description": "7.0.0"
+  },
+  {
+    "date": "2018-02-08",
+    "title": "8.0.0",
+    "description": "v8.0.0"
+  }
+]

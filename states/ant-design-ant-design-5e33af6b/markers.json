@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2015-07-21",
+    "title": "0.7.0",
+    "description": "update release scripts"
+  },
+  {
+    "date": "2016-05-11",
+    "title": "1.0.0",
+    "description": "fix codepen links"
+  },
+  {
+    "date": "2016-09-28",
+    "title": "2.0.0",
+    "description": "docs: update README.md"
+  },
+  {
+    "date": "2017-12-04",
+    "title": "3.0.0",
+    "description": "Omit loading for Switch"
+  },
+  {
+    "date": "2020-02-28",
+    "title": "4.0.0",
+    "description": "docs: 4.0.0 changelog (#21652)"
+  },
+  {
+    "date": "2022-11-18",
+    "title": "5.0.0",
+    "description": "chore: update script"
+  },
+  {
+    "date": "2025-11-22",
+    "title": "6.0.0",
+    "description": "chore: skip env check if CI pendding"
+  }
+]

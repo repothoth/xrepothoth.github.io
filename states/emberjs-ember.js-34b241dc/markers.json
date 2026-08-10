@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2011-12-12",
+    "title": "v0.9",
+    "description": "Bump (unbump?) version"
+  },
+  {
+    "date": "2013-09-01",
+    "title": "v1.0.0",
+    "description": "Fix ember-source to handle non-RCs"
+  },
+  {
+    "date": "2015-08-13",
+    "title": "v2.0.0",
+    "description": "Release v2.0.0."
+  },
+  {
+    "date": "2018-02-13",
+    "title": "v3.0.0",
+    "description": "Release v3.0.0."
+  },
+  {
+    "date": "2021-11-15",
+    "title": "v4.0.0",
+    "description": "Add v4.0.0 to CHANGELOG"
+  },
+  {
+    "date": "2023-05-15",
+    "title": "v5.0.0",
+    "description": "Release v5.0.0"
+  }
+]

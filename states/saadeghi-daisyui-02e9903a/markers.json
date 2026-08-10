@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2020-12-08",
+    "title": "v0.1.10",
+    "description": "0.1.10"
+  },
+  {
+    "date": "2021-05-22",
+    "title": "v1.0.0",
+    "description": "chore(release): 1.0.0"
+  },
+  {
+    "date": "2022-02-14",
+    "title": "v2.0.0",
+    "description": "chore(release): 2.0.0"
+  },
+  {
+    "date": "2023-05-30",
+    "title": "v3.0.0",
+    "description": "chore(release): 3.0.0"
+  },
+  {
+    "date": "2023-11-12",
+    "title": "v4.0.0",
+    "description": "4.0.0 update"
+  },
+  {
+    "date": "2025-03-01",
+    "title": "v5.0.0",
+    "description": "v5 version bump"
+  }
+]

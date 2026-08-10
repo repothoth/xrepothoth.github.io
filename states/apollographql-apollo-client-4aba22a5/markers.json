@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2016-04-13",
+    "title": "v0.0.4",
+    "description": "0.0.4"
+  },
+  {
+    "date": "2017-03-30",
+    "title": "v1.0.0",
+    "description": "1.0.0"
+  },
+  {
+    "date": "2019-12-14",
+    "title": "v2.6.8",
+    "description": "Changelog updates"
+  },
+  {
+    "date": "2020-07-14",
+    "title": "v3.0.0",
+    "description": "Bump @apollo/client npm version to 3.0.0 (final). :tada:"
+  }
+]

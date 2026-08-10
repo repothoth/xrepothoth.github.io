@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2013-07-15",
+    "title": "v0.1.0",
+    "description": "Update node: use node's implementation of setImmediate."
+  },
+  {
+    "date": "2016-05-09",
+    "title": "v1.0.0",
+    "description": "Bump v1.0.0"
+  },
+  {
+    "date": "2018-05-01",
+    "title": "v2.0.0",
+    "description": "v2.0.0"
+  },
+  {
+    "date": "2018-09-18",
+    "title": "v3.0.0",
+    "description": "v3.0.0"
+  },
+  {
+    "date": "2018-12-20",
+    "title": "v4.0.0",
+    "description": "v4.0.0"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "v5.0.0",
+    "description": "v5.0.0"
+  },
+  {
+    "date": "2019-07-29",
+    "title": "v6.0.0",
+    "description": "v6.0.0"
+  },
+  {
+    "date": "2019-10-21",
+    "title": "v7.0.0",
+    "description": "v7.0.0"
+  },
+  {
+    "date": "2020-02-03",
+    "title": "v8.0.0",
+    "description": "v8.0.0"
+  },
+  {
+    "date": "2020-05-18",
+    "title": "v9.0.0",
+    "description": "v9.0.0"
+  },
+  {
+    "date": "2020-08-24",
+    "title": "v10.0.0",
+    "description": "v10.0.0"
+  },
+  {
+    "date": "2020-11-16",
+    "title": "v11.0.0",
+    "description": "v11.0.0"
+  },
+  {
+    "date": "2021-03-01",
+    "title": "v12.0.0",
+    "description": "v12.0.0"
+  },
+  {
+    "date": "2021-05-24",
+    "title": "v13.0.0",
+    "description": "v13.0.0"
+  },
+  {
+    "date": "2021-08-30",
+    "title": "v14.0.0",
+    "description": "v14.0.0"
+  },
+  {
+    "date": "2021-09-21",
+    "title": "v15.0.0",
+    "description": "v15.0.0"
+  },
+  {
+    "date": "2021-11-15",
+    "title": "v16.0.0",
+    "description": "v16.0.0"
+  },
+  {
+    "date": "2022-01-31",
+    "title": "v17.0.0",
+    "description": "v17.0.0"
+  },
+  {
+    "date": "2022-03-28",
+    "title": "v18.0.0",
+    "description": "v18.0.0"
+  },
+  {
+    "date": "2022-05-23",
+    "title": "v19.0.0",
+    "description": "v19.0.0"
+  },
+  {
+    "date": "2022-08-01",
+    "title": "v20.0.0",
+    "description": "v20.0.0"
+  },
+  {
+    "date": "2022-09-26",
+    "title": "v21.0.0",
+    "description": "v21.0.0"
+  },
+  {
+    "date": "2022-11-29",
+    "title": "v22.0.0",
+    "description": "v22.0.0"
+  },
+  {
+    "date": "2023-02-06",
+    "title": "v23.0.0",
+    "description": "v23.0.0"
+  },
+  {
+    "date": "2023-04-03",
+    "title": "v24.0.0",
+    "description": "v24.0.0"
+  },
+  {
+    "date": "2023-05-29",
+    "title": "v25.0.0",
+    "description": "v25.0.0"
+  },
+  {
+    "date": "2023-08-14",
+    "title": "v26.0.0",
+    "description": "v26.0.0"
+  },
+  {
+    "date": "2023-10-09",
+    "title": "v27.0.0",
+    "description": "v27.0.0"
+  },
+  {
+    "date": "2023-12-04",
+    "title": "v28.0.0",
+    "description": "v28.0.0"
+  },
+  {
+    "date": "2024-02-19",
+    "title": "v29.0.0",
+    "description": "v29.0.0"
+  },
+  {
+    "date": "2024-04-15",
+    "title": "v30.0.0",
+    "description": "v30.0.0"
+  },
+  {
+    "date": "2024-06-10",
+    "title": "v31.0.0",
+    "description": "v31.0.0"
+  },
+  {
+    "date": "2024-08-19",
+    "title": "v32.0.0",
+    "description": "v32.0.0"
+  },
+  {
+    "date": "2024-10-14",
+    "title": "v33.0.0",
+    "description": "v33.0.0"
+  },
+  {
+    "date": "2025-01-13",
+    "title": "v34.0.0",
+    "description": "v34.0.0"
+  },
+  {
+    "date": "2025-03-03",
+    "title": "v35.0.0",
+    "description": "v35.0.0"
+  },
+  {
+    "date": "2025-04-28",
+    "title": "v36.0.0",
+    "description": "v36.0.0"
+  },
+  {
+    "date": "2025-06-23",
+    "title": "v37.0.0",
+    "description": "v37.0.0"
+  },
+  {
+    "date": "2025-09-02",
+    "title": "v38.0.0",
+    "description": "v38.0.0"
+  },
+  {
+    "date": "2025-10-27",
+    "title": "v39.0.0",
+    "description": "v39.0.0"
+  },
+  {
+    "date": "2026-01-15",
+    "title": "v40.0.0",
+    "description": "v40.0.0"
+  },
+  {
+    "date": "2026-03-10",
+    "title": "v41.0.0",
+    "description": "v41.0.0"
+  },
+  {
+    "date": "2026-05-04",
+    "title": "v42.0.0",
+    "description": "v42.0.0"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "v43.0.0",
+    "description": "v43.0.0"
+  }
+]

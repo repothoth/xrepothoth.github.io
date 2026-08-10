@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2015-09-05",
+    "title": "0.2.0",
+    "description": "v0.2.0"
+  },
+  {
+    "date": "2020-12-17",
+    "title": "v2020.51.0",
+    "description": "fix(reports): increase crontab size and alert fixes (#12056)"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "v2021.3.0",
+    "description": "Add owner field to the alerts list (#12420)"
+  },
+  {
+    "date": "2021-01-16",
+    "title": "1.0.0",
+    "description": "add rc4 changelog entries"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "2.0.0",
+    "description": "Updates CHANGELOG.md"
+  },
+  {
+    "date": "2023-09-13",
+    "title": "3.0.0",
+    "description": "chore: Updates CHANGELOG.md"
+  },
+  {
+    "date": "2024-04-01",
+    "title": "4.0.0",
+    "description": "chore: Adds 4.0.0 RC2 data to CHANGELOG.md"
+  },
+  {
+    "date": "2025-06-18",
+    "title": "5.0.0",
+    "description": "chore: Adds RC4 data to CHANGELOG.md"
+  },
+  {
+    "date": "2025-12-04",
+    "title": "6.0.0",
+    "description": "chore: update changelog for 6.0.0rc4"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2020-03-28",
+    "title": "1.0",
+    "description": "Fixed infinite loop issue in parsing recursive data"
+  },
+  {
+    "date": "2021-05-17",
+    "title": "v3.0.0",
+    "description": "Merge pull request #445 from colinhacks/v3"
+  },
+  {
+    "date": "2025-07-09",
+    "title": "v4.0.1",
+    "description": "4.0.1"
+  }
+]

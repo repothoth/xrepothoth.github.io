@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2019-01-14",
+    "title": "v0.0.1",
+    "description": "Added npmignore"
+  },
+  {
+    "date": "2019-06-26",
+    "title": "v1.0.0",
+    "description": "1.0.0"
+  },
+  {
+    "date": "2020-07-15",
+    "title": "v2.0.0",
+    "description": "2.0.0"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "v3.0.0",
+    "description": "3.0.0"
+  },
+  {
+    "date": "2021-03-18",
+    "title": "v4.0.0",
+    "description": "4.0.0"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "v5.0.0",
+    "description": "5.0.0"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "v6.0.0",
+    "description": "v6.0.0"
+  },
+  {
+    "date": "2022-08-02",
+    "title": "v7.0.0",
+    "description": "v7.0.0"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "v8.0.1",
+    "description": "v8.0.1"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "v9.0.0",
+    "description": "v9.0.0"
+  },
+  {
+    "date": "2023-02-24",
+    "title": "v10.0.0",
+    "description": "v10.0.0"
+  },
+  {
+    "date": "2024-01-23",
+    "title": "v11.0.0",
+    "description": "v11.0.0"
+  },
+  {
+    "date": "2025-01-20",
+    "title": "v12.0.0",
+    "description": "v12.0.0"
+  },
+  {
+    "date": "2026-08-05",
+    "title": "v13.0.0",
+    "description": "v13.0.0"
+  }
+]

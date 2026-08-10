@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2018-04-06",
+    "title": "v1.0.0",
+    "description": "1.0.0"
+  },
+  {
+    "date": "2018-05-05",
+    "title": "v2.0.0",
+    "description": "feat(TextMatch): make fuzzy matching opt-in instead of default (#31)"
+  },
+  {
+    "date": "2018-07-10",
+    "title": "v3.0.0",
+    "description": "fix: remove extend-expect (#70)"
+  },
+  {
+    "date": "2019-04-25",
+    "title": "v4.0.0",
+    "description": "docs: add open collective"
+  },
+  {
+    "date": "2019-05-30",
+    "title": "v5.0.0",
+    "description": "fix(release): manually release a major version"
+  },
+  {
+    "date": "2019-08-09",
+    "title": "v6.0.0",
+    "description": "fix(release): manually release a major version"
+  },
+  {
+    "date": "2020-03-12",
+    "title": "v7.0.0",
+    "description": "feat(waitForElementToBeRemoved): support passing an element directly (#460)"
+  },
+  {
+    "date": "2021-06-23",
+    "title": "v8.0.0",
+    "description": "test(fake-timers): raf is now mocked in legacy fake timers (#986)"
+  },
+  {
+    "date": "2023-02-09",
+    "title": "v9.0.0",
+    "description": "fix(ByRole): Constrain API (#1211)"
+  },
+  {
+    "date": "2024-04-08",
+    "title": "v10.0.0",
+    "description": "test: Fix Codecov in CI (#1297)"
+  }
+]

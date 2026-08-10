@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2013-06-03",
+    "title": "1.0.0",
+    "description": "release 1.0.0"
+  },
+  {
+    "date": "2014-07-08",
+    "title": "2.0.0",
+    "description": "release 2.0.0"
+  },
+  {
+    "date": "2016-01-12",
+    "title": "3.0.0",
+    "description": "README"
+  },
+  {
+    "date": "2018-01-16",
+    "title": "4.0.0",
+    "description": "release 4.0.0"
+  },
+  {
+    "date": "2020-11-20",
+    "title": "5.0.0",
+    "description": "Merge pull request #13654 from apache/release-next"
+  },
+  {
+    "date": "2025-07-24",
+    "title": "6.0.0",
+    "description": "Merge pull request #21132 from apache/release-dev"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2013-10-16",
+    "title": "v0.2.0",
+    "description": "Updated ETA"
+  },
+  {
+    "date": "2015-01-07",
+    "title": "v1.0.1",
+    "description": "1.0.1 release builds"
+  },
+  {
+    "date": "2016-04-09",
+    "title": "v2.0.0",
+    "description": "Bump version to v2.0.0"
+  },
+  {
+    "date": "2021-04-02",
+    "title": "v3.0.0",
+    "description": "v3.0.0 version bump (#8781)"
+  },
+  {
+    "date": "2022-10-12",
+    "title": "v4.0.0",
+    "description": "Bump alpha v4 (#10787)"
+  }
+]

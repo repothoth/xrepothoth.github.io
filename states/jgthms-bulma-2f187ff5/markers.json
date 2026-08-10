@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2016-01-24",
+    "title": "0.0.1",
+    "description": "Init"
+  },
+  {
+    "date": "2024-03-21",
+    "title": "1.0.0",
+    "description": "Include versions in build"
+  }
+]

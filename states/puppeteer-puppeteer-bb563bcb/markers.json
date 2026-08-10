@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2017-08-16",
+    "title": "v0.9.0",
+    "description": "Roll chromium to r494755 (#286)"
+  },
+  {
+    "date": "2018-01-11",
+    "title": "v1.0.0",
+    "description": "chore: mark version v1.0.0 (#1786)"
+  },
+  {
+    "date": "2019-10-24",
+    "title": "v2.0.0",
+    "description": "chore: mark version v2.0.0 (#5078)"
+  },
+  {
+    "date": "2020-04-16",
+    "title": "v3.0.0",
+    "description": "chore: mark version v3.0.0 (#5642)"
+  },
+  {
+    "date": "2020-06-15",
+    "title": "v4.0.0",
+    "description": "chore: mark version 4.0.0 (#6018)"
+  },
+  {
+    "date": "2020-07-02",
+    "title": "v5.0.0",
+    "description": "chore: mark v5.0.0 (#6143)"
+  },
+  {
+    "date": "2021-02-02",
+    "title": "v6.0.0",
+    "description": "chore(release): mark v6.0.0 (#6800)"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "v7.0.0",
+    "description": "chore(release): mark v7.0.0 (#6804)"
+  },
+  {
+    "date": "2021-02-26",
+    "title": "v8.0.0",
+    "description": "chore(release): mark v8.0.0 (#6928)"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "v9.0.0",
+    "description": "chore(release): mark v9.0.0 (#7111)"
+  },
+  {
+    "date": "2021-05-31",
+    "title": "v10.0.0",
+    "description": "chore(release): mark v10.0.0 (#7299)"
+  },
+  {
+    "date": "2021-11-02",
+    "title": "v11.0.0",
+    "description": "chore(release): mark v11.0.0 (#7737)"
+  },
+  {
+    "date": "2021-11-26",
+    "title": "v12.0.0",
+    "description": "chore(release): mark v12.0.0 (#7800)"
+  },
+  {
+    "date": "2021-12-10",
+    "title": "v13.0.0",
+    "description": "chore(release): mark v13.0.0 (#7832)"
+  },
+  {
+    "date": "2022-05-09",
+    "title": "v14.0.0",
+    "description": "chore(release): mark v14.0.0 (#8326)"
+  },
+  {
+    "date": "2022-06-23",
+    "title": "v15.0.0",
+    "description": "chore(main): release 15.0.0 (#8555)"
+  },
+  {
+    "date": "2022-08-02",
+    "title": "v16.0.0",
+    "description": "chore(main): release 16.0.0 (#8729)"
+  },
+  {
+    "date": "2022-08-29",
+    "title": "v17.0.0",
+    "description": "chore(main): release 17.0.0 (#8828)"
+  },
+  {
+    "date": "2022-09-19",
+    "title": "v18.0.0",
+    "description": "chore(main): release 18.0.0 (#8981)"
+  },
+  {
+    "date": "2022-10-14",
+    "title": "v19.0.0",
+    "description": "chore: release main (#9115)"
+  }
+]

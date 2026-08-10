@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2021-03-09",
+    "title": "0.4.9",
+    "description": "[release] Version: 0.4.9"
+  },
+  {
+    "date": "2021-05-03",
+    "title": "1.0.0",
+    "description": "[release] Version: 1.0.0"
+  },
+  {
+    "date": "2021-07-05",
+    "title": "2.0.0",
+    "description": "[release] Version: 2.0.0"
+  },
+  {
+    "date": "2021-10-10",
+    "title": "3.0.0",
+    "description": "[release] Version: 3.0.0"
+  },
+  {
+    "date": "2022-03-10",
+    "title": "4.0.0",
+    "description": "[release] Version: 4.0.0"
+  },
+  {
+    "date": "2022-07-25",
+    "title": "5.0.0",
+    "description": "[release] Version: 5.0.0"
+  },
+  {
+    "date": "2023-03-02",
+    "title": "6.0.0",
+    "description": "[release] Version: 6.0.0"
+  },
+  {
+    "date": "2023-09-18",
+    "title": "7.0.0",
+    "description": "[release] Version: 7.0.0"
+  },
+  {
+    "date": "2025-05-05",
+    "title": "8.0.0",
+    "description": "[release] Version: 8.0.0"
+  },
+  {
+    "date": "2026-03-31",
+    "title": "9.0.0",
+    "description": "[core] Update test command"
+  }
+]

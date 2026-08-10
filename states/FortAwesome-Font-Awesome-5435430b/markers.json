@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2012-03-09",
+    "title": "v1.0.0",
+    "description": "release 1.0.0"
+  },
+  {
+    "date": "2012-06-04",
+    "title": "2.0.0",
+    "description": "release 2.0.0"
+  },
+  {
+    "date": "2013-01-02",
+    "title": "v3.0.0",
+    "description": "release 3.0.0"
+  },
+  {
+    "date": "2013-10-23",
+    "title": "v4.0.0",
+    "description": "release 4.0.0"
+  },
+  {
+    "date": "2018-02-05",
+    "title": "5.0.6",
+    "description": "Fix bug report and icon request template links"
+  },
+  {
+    "date": "2022-02-07",
+    "title": "6.0.0",
+    "description": "Add 6.0.0 files (#18652)"
+  },
+  {
+    "date": "2025-07-22",
+    "title": "7.0.0",
+    "description": "Release 7.0.0 (#20715)"
+  }
+]

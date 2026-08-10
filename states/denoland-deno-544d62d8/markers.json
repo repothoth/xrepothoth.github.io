@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2018-08-17",
+    "title": "v0.0.1",
+    "description": "chore: download clang-format from google storage"
+  },
+  {
+    "date": "2020-05-13",
+    "title": "v1.0.0",
+    "description": "v1.0.0"
+  },
+  {
+    "date": "2024-10-08",
+    "title": "v2.0.0",
+    "description": "2.0.0 (#26063)"
+  }
+]

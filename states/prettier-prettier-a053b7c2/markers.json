@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2017-01-09",
+    "title": "0.0.1",
+    "description": "Rename to `prettier`"
+  },
+  {
+    "date": "2017-04-13",
+    "title": "1.0.0",
+    "description": "1.0"
+  },
+  {
+    "date": "2020-03-21",
+    "title": "2.0.0",
+    "description": "Release 2.0.0"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "3.0.0",
+    "description": "Release 3.0.0"
+  }
+]

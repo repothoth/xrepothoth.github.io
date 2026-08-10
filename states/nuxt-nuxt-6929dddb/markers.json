@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2016-11-07",
+    "title": "v0.2.0",
+    "description": "Version 0.2.0"
+  },
+  {
+    "date": "2018-01-08",
+    "title": "v1.0.0",
+    "description": "v1.0.0"
+  },
+  {
+    "date": "2018-09-20",
+    "title": "v2.0.0",
+    "description": "contributors: Add two new members"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "v3.0.0",
+    "description": "v3.0.0 (#9051)"
+  },
+  {
+    "date": "2025-07-16",
+    "title": "v4.0.0",
+    "description": "v4.0.0"
+  }
+]

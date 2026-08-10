@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2016-09-14",
+    "title": "2.0.0",
+    "description": "chore(release): v2.0.0 proprioception-reinforcement"
+  },
+  {
+    "date": "2017-03-23",
+    "title": "4.0.0",
+    "description": "docs: add changelog for 4.0.0"
+  },
+  {
+    "date": "2017-11-01",
+    "title": "5.0.0",
+    "description": "docs: add changelog for 5.0.0"
+  },
+  {
+    "date": "2018-05-03",
+    "title": "6.0.0",
+    "description": "release: cut the v6.0.0 release"
+  },
+  {
+    "date": "2018-10-18",
+    "title": "7.0.0",
+    "description": "release: cut the v7.0.0 release"
+  },
+  {
+    "date": "2019-05-28",
+    "title": "8.0.0",
+    "description": "release: cut the v8.0.0 release"
+  },
+  {
+    "date": "2020-02-06",
+    "title": "9.0.0",
+    "description": "release: cut the v9.0.0 release"
+  },
+  {
+    "date": "2020-06-24",
+    "title": "10.0.0",
+    "description": "release: cut the v10.0.0 release"
+  },
+  {
+    "date": "2020-11-11",
+    "title": "11.0.0",
+    "description": "release: cut the v11.0.0 release"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "12.0.0",
+    "description": "Revert \"refactor(core): optimize calls to `split` and `slice` while computing version parts (#41208)\""
+  },
+  {
+    "date": "2021-11-03",
+    "title": "13.0.0",
+    "description": "release: cut the v13.0.0 release (#44032)"
+  },
+  {
+    "date": "2022-06-02",
+    "title": "14.0.0",
+    "description": "release: cut the v14.0.0 release (#46223)"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "15.0.0",
+    "description": "release: cut the v15.0.0 release"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "16.0.0",
+    "description": "release: cut the v16.0.0 release"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "17.0.0",
+    "description": "release: cut the v17.0.0 release"
+  },
+  {
+    "date": "2024-05-22",
+    "title": "18.0.0",
+    "description": "release: cut the v18.0.0 release"
+  },
+  {
+    "date": "2024-11-19",
+    "title": "19.0.0",
+    "description": "release: cut the v19.0.0 release"
+  },
+  {
+    "date": "2025-05-28",
+    "title": "20.0.0",
+    "description": "release: cut the v20.0.0 release"
+  },
+  {
+    "date": "2025-11-19",
+    "title": "21.0.0",
+    "description": "release: cut the v21.0.0 release"
+  },
+  {
+    "date": "2026-06-03",
+    "title": "v22.0.0",
+    "description": "release: cut the v22.0.0 release"
+  }
+]

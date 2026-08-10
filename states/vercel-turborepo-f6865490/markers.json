@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2021-12-01",
+    "title": "v0.8.5",
+    "description": "publish 0.8.5 to registry"
+  },
+  {
+    "date": "2021-12-09",
+    "title": "v1.0.0",
+    "description": "publish 1.0.0 to registry"
+  },
+  {
+    "date": "2024-06-04",
+    "title": "v2.0.0",
+    "description": "publish 2.0.0 to registry"
+  }
+]

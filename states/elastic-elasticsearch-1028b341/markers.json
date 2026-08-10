@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2010-02-08",
+    "title": "v0.4.0",
+    "description": "v0.4.0"
+  },
+  {
+    "date": "2014-02-12",
+    "title": "v1.0.0",
+    "description": "release [1.0.0]"
+  },
+  {
+    "date": "2015-10-21",
+    "title": "v2.0.0",
+    "description": "[TEST] Add test for #14232"
+  },
+  {
+    "date": "2016-10-25",
+    "title": "v5.0.0",
+    "description": "Add correct Content-Length on HEAD requests"
+  },
+  {
+    "date": "2017-11-10",
+    "title": "v6.0.0",
+    "description": "Elasticsearch v6.0.0"
+  },
+  {
+    "date": "2019-04-05",
+    "title": "v7.0.0",
+    "description": "Elasticsearch v7.0.0"
+  },
+  {
+    "date": "2022-01-31",
+    "title": "v8.0.0",
+    "description": "Add v8.0.0 tag"
+  },
+  {
+    "date": "2025-04-08",
+    "title": "v9.0.0",
+    "description": "Set `keyUsage` for generated HTTP certificates and self-signed CA (#126376) (#126447)"
+  }
+]

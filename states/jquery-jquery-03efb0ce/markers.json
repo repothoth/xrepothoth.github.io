@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2006-08-31",
+    "title": "1.0",
+    "description": "Broke >, ~, +, etc - fixed."
+  },
+  {
+    "date": "2013-04-18",
+    "title": "2.0.0",
+    "description": "Include distribution in release tag"
+  },
+  {
+    "date": "2016-06-09",
+    "title": "3.0.0",
+    "description": "3.0.0"
+  },
+  {
+    "date": "2026-01-17",
+    "title": "4.0.0",
+    "description": "Release: 4.0.0"
+  }
+]

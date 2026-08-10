@@ -1,0 +1,112 @@
+[
+  {
+    "date": "2014-05-14",
+    "title": "v0.1.0",
+    "description": "0.1.0"
+  },
+  {
+    "date": "2015-09-10",
+    "title": "v5.0.3",
+    "description": "5.0.3"
+  },
+  {
+    "date": "2016-03-22",
+    "title": "v9.0.3",
+    "description": "v9.0.3"
+  },
+  {
+    "date": "2016-04-27",
+    "title": "v12.0.1",
+    "description": "v12.0.1"
+  },
+  {
+    "date": "2016-06-22",
+    "title": "v13.0.0",
+    "description": "Jest 13.0."
+  },
+  {
+    "date": "2016-07-27",
+    "title": "v14.0.0",
+    "description": "v14.0.0"
+  },
+  {
+    "date": "2016-08-31",
+    "title": "v15.0.0",
+    "description": "v15.0.0"
+  },
+  {
+    "date": "2016-10-03",
+    "title": "v16.0.0",
+    "description": "v16.0.0"
+  },
+  {
+    "date": "2016-11-08",
+    "title": "v17.0.0",
+    "description": "v17.0.0"
+  },
+  {
+    "date": "2016-12-15",
+    "title": "v18.0.0",
+    "description": "v18.0.0"
+  },
+  {
+    "date": "2017-02-21",
+    "title": "v19.0.0",
+    "description": "Jest 19. (#2950)"
+  },
+  {
+    "date": "2017-05-06",
+    "title": "v20.0.0",
+    "description": "v20.0.0"
+  },
+  {
+    "date": "2017-09-04",
+    "title": "v21.0.0",
+    "description": "v21.0.0"
+  },
+  {
+    "date": "2017-12-18",
+    "title": "v22.0.0",
+    "description": "Jest 22 release"
+  },
+  {
+    "date": "2018-05-24",
+    "title": "v23.0.0",
+    "description": "Release v23.0.0"
+  },
+  {
+    "date": "2019-01-25",
+    "title": "v24.0.0",
+    "description": "v24.0.0"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "v25.1.0",
+    "description": "v25.1.0"
+  },
+  {
+    "date": "2020-05-04",
+    "title": "v26.0.0",
+    "description": "v26.0.0"
+  },
+  {
+    "date": "2021-05-25",
+    "title": "v27.0.0",
+    "description": "v27.0.0"
+  },
+  {
+    "date": "2022-04-25",
+    "title": "v28.0.0",
+    "description": "v28.0.0"
+  },
+  {
+    "date": "2022-08-25",
+    "title": "v29.0.0",
+    "description": "v29.0.0"
+  },
+  {
+    "date": "2025-06-10",
+    "title": "v30.0.0",
+    "description": "v30.0.0"
+  }
+]

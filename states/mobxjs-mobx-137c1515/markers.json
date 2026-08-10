@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2015-03-22",
+    "title": "0.0.1",
+    "description": "0.0.1"
+  },
+  {
+    "date": "2015-10-13",
+    "title": "1.0.0",
+    "description": "Published version 1.0.0"
+  },
+  {
+    "date": "2016-02-26",
+    "title": "2.0.0",
+    "description": "Published version 2.0.0"
+  },
+  {
+    "date": "2017-01-09",
+    "title": "3.0.0",
+    "description": "Published version 3.0.0"
+  },
+  {
+    "date": "2018-03-12",
+    "title": "4.0.0",
+    "description": "Published version 4.0.0"
+  },
+  {
+    "date": "2018-06-07",
+    "title": "5.0.0",
+    "description": "Published version 5.0.0"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "6.0.0",
+    "description": "Published version 6.0.0"
+  }
+]

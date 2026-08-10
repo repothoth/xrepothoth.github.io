@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2013-11-04",
+    "title": "0.1",
+    "description": "Count Andromalius"
+  },
+  {
+    "date": "2014-06-23",
+    "title": "1.0.0",
+    "description": "Marquis Decarabia"
+  },
+  {
+    "date": "2014-07-23",
+    "title": "2.0.0",
+    "description": "King Belial"
+  },
+  {
+    "date": "2014-11-12",
+    "title": "3.0.0",
+    "description": "Marquis Andrealphus"
+  },
+  {
+    "date": "2014-12-30",
+    "title": "4.0.0",
+    "description": "Duke Flauros"
+  },
+  {
+    "date": "2015-08-19",
+    "title": "5.0.0",
+    "description": "President Valac"
+  },
+  {
+    "date": "2017-05-06",
+    "title": "6.0.0",
+    "description": "Marquis Orias"
+  },
+  {
+    "date": "2018-07-16",
+    "title": "7.0.0",
+    "description": "President Amy"
+  },
+  {
+    "date": "2020-09-15",
+    "title": "8.0.0",
+    "description": "President Ose"
+  }
+]

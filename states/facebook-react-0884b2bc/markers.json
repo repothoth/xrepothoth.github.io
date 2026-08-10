@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2013-05-29",
+    "title": "v0.3.0",
+    "description": "Initial public release"
+  },
+  {
+    "date": "2016-04-07",
+    "title": "v15.0.0",
+    "description": "v15.0.0"
+  },
+  {
+    "date": "2017-09-26",
+    "title": "v16.0.0",
+    "description": "v16.0.0"
+  },
+  {
+    "date": "2019-03-29",
+    "title": "1.2.5",
+    "description": "Fixed bad release (missing dist folder)"
+  },
+  {
+    "date": "2020-10-20",
+    "title": "v17.0.0",
+    "description": "Bump versions for 17"
+  },
+  {
+    "date": "2022-03-29",
+    "title": "v18.0.0",
+    "description": "v18.0.0"
+  },
+  {
+    "date": "2024-11-14",
+    "title": "v19.0.0",
+    "description": "Bump RC version to 19.0.0-rc.1 (#31542)"
+  }
+]

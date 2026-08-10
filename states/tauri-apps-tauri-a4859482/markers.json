@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2019-12-17",
+    "title": "v0.2.0",
+    "description": "chore(js-cli) use tauri-inliner"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "v1.0.0",
+    "description": "Apply Version Updates From Current Changes (#4352)"
+  }
+]
