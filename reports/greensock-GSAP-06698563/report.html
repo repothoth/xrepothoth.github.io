@@ -1,0 +1,10 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GSAP — Project Health Report</title></head><body><script>
+(async()=>{try{
+  const r=await fetch("report.page.htmlz");
+  if(!r.ok)throw new Error('HTTP '+r.status);
+  const t=await new Response(r.body.pipeThrough(new DecompressionStream('gzip'))).text();
+  document.open();document.write(t);document.close();
+}catch(e){document.body.textContent="Failed to load report: "+e;}})();
+</script></body></html>
